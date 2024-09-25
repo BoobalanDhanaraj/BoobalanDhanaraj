@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I am Pooja</h2>
+<h2 align="left">Hi 👋! I am Boobalan Dhanaraj</h2>
  
 ###
  
@@ -25,10 +25,10 @@
 ###
  
 <div align="left">
-<a href="mailto:poojathiyagu134@gmail.com" target="_blank">
+<a href="mailto:boobalandhanaraj@outlook.com" target="_blank">
 <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </a>
-<a href="https://www.linkedin.com/in/pooja-t-137693170?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+<a href="https://www.linkedin.com/in/boobalan-dhanaraj-863bb9208" target="_blank">
 <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </a>
 </div>
